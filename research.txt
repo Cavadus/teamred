@@ -13,3 +13,17 @@ IntelliJ IDEA
 		First released in 2001.
 		One of the first Java IDEs with advanced code navigation and code refactoring.
 		Google's Android Studio, open source IDE for Android apps, based on IntelliJ IDEA.
+		
+Features
+	-Smart Completion
+	
+	-Provides most relevant symbols applicable in current context. Constantly learning from you, moving members of
+	most frequentlyused classes and packages to top of suggestions list.</span></p>
+	
+	-Language Injection
+	
+	Brings coding assistance for a selected language to expressions and string literals in another one.  I.E. you can inject
+	fragments of SQL, XPath, HTML, CSS, or JavaScript code into Java String literals.
+	
+	-Framework Support for Java EE, Spring, Android, GWT, Vaadin, Play, Grails, Hibernate, Thymeleaf, AngularJS, React, Velocity,
+	Freemarker, Struts, Guice, JavaFX, Swing
